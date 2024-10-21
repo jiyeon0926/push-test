@@ -8,8 +8,7 @@ refusing to merge unrelated histories
 4. IntelliJ에서 Main 클래스 수정 후 commit 및 push
 
 # ❓ 원인
-GitHub Repository 생성할 때, README 파일을 추가하고 생성해 생긴 오류이다 </br>
-정확히는 연동한 GitHub Repository의 README.md 파일을 커밋한 이력이 로컬 저장소의 커밋 이력에는 없어서 생긴 오류이다
+연동한 GitHub Repository의 README.md 파일을 커밋한 이력이 로컬 저장소의 커밋 이력에는 없어서 생긴 오류이다
 
 # ⭕ 해결
 
